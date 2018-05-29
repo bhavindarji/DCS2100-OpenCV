@@ -14,9 +14,7 @@ while True:
    
     # put the image on screen
     cv2.imshow('IPWebcam',img)
- 
-    #To give the processor some less stress
+   
     #time.sleep(0.1)
- 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
