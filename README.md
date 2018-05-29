@@ -1,2 +1,2 @@
-# DSC2100-OpenCV
+# DCS2100-OpenCV
 OpenCV IP camera interface 
